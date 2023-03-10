@@ -1,4 +1,4 @@
-# HD-NAS
+# PerfHD
 **PerfHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing**
 
 ## Prerequisite Packages
