@@ -1,5 +1,5 @@
 # HD-NAS
-**HD-NAS: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing**
+**PerfHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing**
 
 ## Prerequisite Packages
 - The following python packages are required:
