@@ -1,6 +1,16 @@
 # PerfHD 
 **PerfHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing**
 - This repository provides a straightforward implementation of **PerfHD**, which leverage the capability of Hyperdimensional Computing (HDC) to tackle architecture performance ranking problem in ViT neural architecture search.
+- If you find our research helpful, please consider citing our paper. Thanks!
+```
+@inproceedings{ma2023perfhd,
+  title={PerfHD: Efficient ViT Architecture Performance Ranking Using Hyperdimensional Computing},
+  author={Ma, Dongning and Zhao, Pengfei and Jiao, Xun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2229--2236},
+  year={2023}
+}
+```
 
 ## Highlights
 - **Straightforward.** **PerfHD** has straightforward implementation and the entire work can be summarized with one Jupyter notebook with less than 100 lines of Python code. 
